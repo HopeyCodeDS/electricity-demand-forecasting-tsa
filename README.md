@@ -1,6 +1,6 @@
 # Electricity Demand Forecasting & Time Series Analysis
 
-!(graphs/powerLines.jpg)
+![Image of the raw data](graphs/PowerLines.jpg)
 
 ## Introduction
 
@@ -67,9 +67,9 @@ SARIMAX updates standard ARIMA models by adding seasonal parameter configuration
 
 The model splits historical observations into training sets and test frames to validate predictive behavior against real holdout data:
 
-![Image of the raw data](graphs/Multiplicative_decompose.png)
+![Image of the raw data](graphs/PredictionTable.PNG)
 
-![Image of the raw data](graphs/Additive_decompose.png)
+![Image of the raw data](graphs/PredictedOnlyGraph.png)
 
 ---
 
